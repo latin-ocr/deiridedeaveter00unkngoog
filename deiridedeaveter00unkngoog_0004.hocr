@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deiridedeaveter00unkngoog_0004.png"; bbox 0 0 3092 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 655 1813 2548 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 655 1813 2548 1902">
+     <span class='ocr_line' id='line_1_1' title="bbox 655 1813 2548 1902; baseline 0.002 -21"><span class='ocrx_word' id='word_1_1' title='bbox 655 1818 787 1902; x_wconf 84' lang='lat' dir='ltr'>Tag</span> <span class='ocrx_word' id='word_1_2' title='bbox 833 1819 946 1882; x_wconf 91' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_3' title='bbox 988 1818 1398 1882; x_wconf 80' lang='lat' dir='ltr'>miindliehen</span> <span class='ocrx_word' id='word_1_4' title='bbox 1445 1814 1769 1902; x_wconf 77' lang='lat' dir='ltr'>Priifung:</span> <span class='ocrx_word' id='word_1_5' title='bbox 1818 1820 1919 1882; x_wconf 84' lang='lat'>21.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1963 1813 2315 1882; x_wconf 81' lang='lat' dir='ltr'>December</span> <span class='ocrx_word' id='word_1_7' title='bbox 2361 1817 2548 1885; x_wconf 87' lang='grc'><strong>1891.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 904 1961 2289 2028">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 904 1961 2289 2028">
+     <span class='ocr_line' id='line_1_2' title="bbox 904 1961 2289 2028; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 904 1961 1232 2026; x_wconf 85' lang='lat' dir='ltr'>Referent:</span> <span class='ocrx_word' id='word_1_9' title='bbox 1278 1962 1445 2027; x_wconf 83' lang='lat' dir='ltr'>Herr</span> <span class='ocrx_word' id='word_1_10' title='bbox 1491 1962 1815 2028; x_wconf 82' lang='lat' dir='ltr'>Professor</span> <span class='ocrx_word' id='word_1_11' title='bbox 1860 1964 1981 2027; x_wconf 89' lang='lat' dir='ltr'>Wi</span> <span class='ocrx_word' id='word_1_12' title='bbox 1999 1983 2034 2027; x_wconf 88' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_13' title='bbox 2051 1984 2082 2027; x_wconf 82' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_14' title='bbox 2102 1963 2174 2027; x_wconf 92' lang='lat' dir='ltr'>el</span> <span class='ocrx_word' id='word_1_15' title='bbox 2190 1982 2226 2027; x_wconf 90' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_16' title='bbox 2243 1984 2289 2026; x_wconf 90' lang='lat' dir='ltr'>r.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
